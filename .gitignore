@@ -1,0 +1,11 @@
+/ecommerce-app/node_modules
+/ecommerce-app/.env
+/ecommerce-app/public/build
+/ecommerce-app/composer.lock
+/ecommerce-app/package-lock.json
+
+/foodpanda-app/node_modules
+/foodpanda-app/.env
+/foodpanda-app/public/build
+/foodpanda-app/composer.lock
+/foodpanda-app/package-lock.json
